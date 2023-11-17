@@ -1,0 +1,7 @@
+Hello
+Homework 6
+5. Add a new file to your project. Back to your local machine, using your terminal, create a new file on your project’s folder. Make sure (with “pwd”, “cd”, and “ls”) that you’re inside the correct folder. You may use any file editor of your preference. In the example below, I’m using “vi” to edit files.
+user@host: cd <your_project> user@host: vi my_file.txt
+Don’t forget to replace “<your_project>” with your project’s folder.
+Type some content to “my_file.txt” and save it
+
